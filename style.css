@@ -1,0 +1,15 @@
+p {
+    line-height: 50px;
+    text-transform: uppercase;
+    background-color:antiquewhite;
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.css {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+}
